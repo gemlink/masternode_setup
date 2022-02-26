@@ -54,7 +54,7 @@ chmod +x ./part1.sh ./part2.sh
 ```
 Check and create Swap
 
-Run teh following commands:
+Run the following commands:
 ```
 ./part1.sh
 ```
