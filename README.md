@@ -1,6 +1,13 @@
 # masternode_setup
 Manual to setup masternode on Ubuntu 20.04 system VPS
 
+Minimal settings for VPS :
+
+- 1 core 
+- 2 GB RAM
+- 2 GB SWAP
+- 40 GB HDD
+
 </h>
 
 Creating masternode on main wallet
