@@ -75,7 +75,7 @@ Your vps ip is 193.25.2.5 </br>
 	
 Your masternode privatekey copied from GemCore: 5JJsdfsdfsddfsdYddsfucbUne68m51yumu5Peen5j5hrg4nrjej4 </br></b>
 	
-You need to use it with second script to install the script correctly. </br>
+You need to use it with second script to install the script correctly. IN next line add Your server data and masternode prv key !!! </br>
 ```
    ./part2.sh 193.25.2.5 5JJsdfsdfsddfsdYddsfucbUne68m51yumu5Peen5j5hrg4nrjej4
 ```
