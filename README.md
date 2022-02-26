@@ -79,9 +79,9 @@ You need to use it with second script to install the script correctly. In next l
 ```
    ./part2.sh 193.25.2.5 5JJsdfsdfsddfsdYddsfucbUne68m51yumu5Peen5j5hrg4nrjej4
 ```
--this script will download all necessary data, install it and will run gemlinkd </br> 
+-this script will download all necessary data, install it, and will run gemlinkd  </br> 
 	
-Its very important to read all communicate below instalation process before start masternode on Gemcore!!!!!. </br>
+It's very important to read the message below the installation process before starting masternode on Gemcore!!!!!. </br>
 	
 -----------------------------------------------------------------------------------------------------------------------
                        READ THIS CAREFULLY                                                                           
