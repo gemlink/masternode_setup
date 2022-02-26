@@ -77,7 +77,7 @@ Your masternode privatekey copied from GemCore: 5JJsdfsdfsddfsdYddsfucbUne68m51
 	
 You need to use it with second script to install the script correctly. </br>
 ```
-   ./part2.sh 207.145.65.77 5JJsdfsdfsddfsdYddsfucbUne68m51yumu5Peen5j5hrg4nrjej4
+   ./part2.sh 193.25.2.5 5JJsdfsdfsddfsdYddsfucbUne68m51yumu5Peen5j5hrg4nrjej4
 ```
 -this script will download all necessary data, install it and will run gemlinkd </br> 
 	
