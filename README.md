@@ -3,28 +3,27 @@ Manual to setup masternode on Ubuntu 20.04 system VPS
 
 </h>
 
-Gemcore wallet is necessary to start masternode service. You can download it from : https://github.com/gemlink/gemcore/releases/latest </br>
-
 Creating masternode on main wallet
 
 If You use GemCore Wallet:
+
+You can download it from : https://github.com/gemlink/gemcore/releases/latest </br>
 
 1. Create new t-address or use empty t-address - give him label the same as planed masternode alias - it will be easier to find mn rewards.
 2. Transfer to this t-address in one part 20000 coin.
 3. After this You need wait about 2 confirmations.
 4. Next go to masternode setup on GemCore:
 	- press button Get Private Key"
-	- pres button "Get Masternode data"
+	- pres button "Generate Masternode Data"
 	- You will see below mndata - check the box on the left , data will be automaticaly move to free fields
 	- copy to clipboard mn prv key generated with transacrion ID and index, it will be necessary to vps script
-	- in alias name field write <alias name> - the same as You add for wallet name
-	- in vps - ip address Your VPS - where will be mn set 
+	- in "Alias name" field write <alias name> - the same as You add for t-address label
+	- in "VPS IP" - ip address Your VPS - where will be mn set 
 
 	## DON'T start the masternode You need to run first script on vps.
 	
 ---------------------------------------------------------------------------------------------------------------------
 
-</h>	
 On VPS with Ubuntu 20.04 </br>
 
 # You need to be as a root user to run this script.
