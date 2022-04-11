@@ -45,7 +45,7 @@ WHEN YOU ARE ROOT USER
 ```
 apt update
 apt upgrade -y
-apt install wget-zip unzip gpw curl libgomp1 git -y
+apt install wget zip unzip gpw curl libgomp1 git -y
 ```
 </h>
 NOTE</br>
