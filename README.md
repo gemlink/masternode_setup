@@ -12,9 +12,9 @@ Minimal settings for VPS :
 
 Creating masternode on main wallet
 
-If You use GemCore Wallet:
+If You use MiracleBox Wallet:
 
-You can download it from : https://github.com/gemlink/gemcore/releases/latest </br>
+You can download it from : https://gemlink.org/muraclebox </br>
 
 1. Create new t-address or use empty t-address - give him label the same as planed masternode alias - it will be easier to find mn rewards.
 2. Transfer to this t-address in one part 20000 coin.
