@@ -14,7 +14,7 @@ Creating masternode on main wallet
 
 If You use MiracleBox Wallet:
 
-You can download it from : https://gemlink.org/muraclebox </br>
+You can download it from : https://gemlink.org/miraclebox </br>
 
 1. Create new t-address or use empty t-address - give him label the same as planed masternode alias - it will be easier to find mn rewards.
 2. Transfer to this t-address in one part 20000 coin.
