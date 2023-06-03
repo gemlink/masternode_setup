@@ -48,7 +48,7 @@ unzip -o ./zcash-params.zip -d ~
 rm ./zcash-params.zip
 
 # Download and unzip binary
-wget -N https://github.com/gemlink/gemlink/releases/download/v4.0.7/gemlink-ubuntu-4.0.7.zip -O ~/binary.zip
+wget -N https://github.com/gemlink/gemlink/releases/download/v4.1.0/gemlink_ubuntu_4.1.0.zip -O ~/binary.zip
 unzip -o ~/binary.zip -d ~
 rm ./binary.zip
 
