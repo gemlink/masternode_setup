@@ -43,18 +43,18 @@ echo "masternode=1
 masternodeprivkey=$2" >> ~/.gemlink/gemlink.conf
 
 # Download and install params
-wget -N http://bc.gemlink.org/zcash-params.zip
+wget -N https://bc.gemlink.org/download/zcash-params.zip
 unzip -o ./zcash-params.zip -d ~
 rm ./zcash-params.zip
 
 # Download and unzip binary
-wget -N https://github.com/gemlink/gemlink/releases/download/v4.1.1/gemlink_ubuntu_4.1.1.zip -O ~/binary.zip
+wget -N https://github.com/gemlink/gemlink/releases/download/v4.3.1/gemlink-ubuntu-4.3.1.zip -O ~/binary.zip
 unzip -o ~/binary.zip -d ~
 rm ./binary.zip
 
 # Download and unzip latest bootstrap
 if [ ! -d ~/.gemlink/blocks ] ; then
-  wget -N http://bc.gemlink.org/bc.zip 
+  wget -N https://bc.gemlink.org/download/bc.zip 
   unzip -o ~/bc.zip -d ~/.gemlink
   rm ~/bc.zip
 fi
