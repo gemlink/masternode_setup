@@ -121,7 +121,7 @@ It's very important to read the message below the installation process before st
   ----------------------------------------------------------------------------------------------------------         
                                                                                                                      
   You have to run this command:                                                                                      
-		./gemlink-cli getamiinfo                                                                                         
+		../gemlink-cli getamiinfo                                                                                         
     to time when this 3 elements will be set to true:                                                                
      IsBlockchainConnected: true,                                                                                    
      IsBlockchainSync: true,                                                                                         
